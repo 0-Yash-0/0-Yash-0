@@ -28,9 +28,9 @@
  
  
 <br />
-<img align="right" height="350px" width="425px" alt="GIF" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp" />
+<img align="right" height="300px" width="400px" alt="GIF" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp" />
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3> I'm 20 years old Full-Stack developer from India.</h3>
 </p>
 
 <!-- - 🥀 Learning Swift & Objective_C
